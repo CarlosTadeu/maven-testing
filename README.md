@@ -7,3 +7,6 @@ Using Maven Surefire for POJO Unit Tests
 
 ### junit4
 Using Maven Surefire for JUnit 4 Unit Tests
+
+### junit5
+Using Maven Surefire for JUnit 5 Unit Tests
