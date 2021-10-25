@@ -2,5 +2,5 @@
 
 This repository has examples of tests with Maven.
 
-### junit4
-Using Maven Surefire for JUnit 4 Unit Tests
+### junit4-groovy
+Using Maven for JUnit4 and Groovy
